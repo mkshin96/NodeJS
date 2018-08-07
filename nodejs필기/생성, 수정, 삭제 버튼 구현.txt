@@ -1,0 +1,2 @@
+onsubmit : 누르면 메시지 출력
+response.writeHead(302, {Location: `/`}); // Location : 작업이 끝난 후, 출력할 페이지 url

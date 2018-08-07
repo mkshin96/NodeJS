@@ -1,0 +1,21 @@
+1. apache와 같은 웹서버와 php, nodejs의 차이점은?
+- nodejs, php는 프로그래밍적으로 사용자에게 전송할 데이터를 생성한다.
+- nodejs, php는 어떤 코드를 넣냐에 따라 사용자에게 전송할 데이터가 바뀐다.
+
+2. 이항연산자의 예(두 가지)?
+- +, -, *, / ...
+
+3. 정보를 표현하는 방법, 기호를 일컫는 단어는?
+- literal(리터럴)
+
+4. var name = "Mugon";
+   var letter = "Dear " + name + "\n\n 가나다라마바사 sunt in culpa qui officia deserunt mollit anim id est laborum. " + name;
+
+ 를 template literal을 사용하여 출력하시오.
+
+5. query string의 시작, 값과 값, 이름을 구분하는 기호를 각각 쓰시오.
+  - 시작 : ?, 값과 값 : &, 이름 : =
+
+6. 'sample.txt' 라는 파일을 생성하고 그 파일을 읽는 javascript 파일을 생성하시오.
+
+7. i가 2보다 작을 경우 'A B C D E'를 출력하고, 그렇지 않을 경우 'A B C1 D2 E2'를 출력하시오.
